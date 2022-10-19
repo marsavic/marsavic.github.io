@@ -20,10 +20,11 @@ Računarska grafika
 
 # S kim imate posla
 
-<!--![h:360 center](nastavni_kadar.jpg)-->
+![h:385](marko.jpg) ![h:385](luka.jpg)
 
-- Nastavnik: Marko Savić (marko.savic@dmi.uns.ac.rs)
-- Saradnik: Luka Maslenjak (lukamaslenjak00@gmail.com)
+
+- Nastavnik: Marko Savić (marko.savic@dmi.uns.ac.rs, mars#1324)
+- Saradnik: Luka Maslenjak (lukamaslenjak00@gmail.com, LukaM#2082)
 
 > 🤯 Kontakt preko mejla ili Discord-a, ne preko Mudla. Za konsultacije se najavite.
 

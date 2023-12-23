@@ -99,7 +99,7 @@ $\phantom{B_{P_0P_1P_2P_3}(t)} = s^3P_0 + 3s^2tP_1 + 3st^2P_2 + t^3P_3$
 
 $B_{P_0}(t) = P_0$
 $B_{P_0 \ldots P_n}(t) = sB_{P_0 \ldots P_{n-1}}(t) + tB_{P_1 \ldots P_n}(t)$
-$B_{P_0 \ldots P_n} = \sum_{i=0}^n{{n \choose i}s^{n-i}t^iP_i}$
+$B_{P_0 \ldots P_n} = \sum_{i=0}^n{ {n \choose i}s^{n-i}t^iP_i}$
 
 ### Osobine:
 

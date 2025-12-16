@@ -2,13 +2,22 @@
 marp: true
 ---
 <style>
-  img[alt~='center'] {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+	img[alt~='center'] {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	section {
+		padding-top: 30px;
+		padding-bottom: 30px;
+		display: flex;
+	}
+	section ul li,
+	section ol li {
+		margin-top: 0.1em;   /* or 0 */
+		margin-bottom: 0.1em;
+	}
 </style>
-
 <!-- _backgroundColor: #222 -->
 <!-- _color:           #eee -->
 ![bg left:44%](filters.jpg)
